@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aklo231@uky.edu**
 
-- ⚡ Fun fact **This read me was created using HTML!**
+- ⚡ Fun fact **this read me was created using HTML!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
