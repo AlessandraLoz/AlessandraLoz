@@ -1,4 +1,4 @@
-[![MasterHead](<script src="//embed.bannerboo.com/bdf3ec0aa084a" async></script>)]
+<script src="//embed.bannerboo.com/bdf3ec0aa084a" async></script>
 <h1 align="center">Hi 👋, I'm Alessandra</h1>
 <h3 align="center">A passionate and well rounded Computer Engineer from Mexico</h3>
 
