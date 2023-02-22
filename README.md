@@ -1,10 +1,11 @@
-<script src="//embed.bannerboo.com/bdf3ec0aa084a" async></script>
+ <h1 align = "center"> <img src= https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif align ="middle"> </h1>
+
 <h1 align="center">Hi 👋, I'm Alessandra</h1>
 <h3 align="center">A passionate and well rounded Computer Engineer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandraloz&label=Profile%20views&color=0e75b6&style=flat" alt="alessandraloz" /> </p>
 
-- 🔭 I’m currently working on **VALT Launcher**
+- 🔭 I’m currently working on **a VALT Launcher**
 
 - 🌱 I’m currently learning **SQL**
 
