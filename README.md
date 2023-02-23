@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aklo231@uky.edu**
 
-- ⚡ Fun fact **this read me was created using HTML!**
+- ⚡ Fun fact **I have been in robotics since 5th Grade**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
