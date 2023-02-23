@@ -1,4 +1,4 @@
- <h1 align = "center"> <img src= https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif align ="middle"> </h1>
+ <h1 align = "center"> <img src= https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif width ="1000"> </h1>
 
 <h1 align="center">Hi 👋, I'm Alessandra</h1>
 <h3 align="center">A passionate and well rounded Computer Engineer from Mexico</h3>
